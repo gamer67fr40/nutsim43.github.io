@@ -40,7 +40,7 @@ var level = 0;
 var xp = 0;
 var barAmount = 0;
 var levelAmount = 0;
-var levelMultiplier = 1;
+var levelMultiplier = 93;
 
 var bgNum = 1;
 var ranInvert = false;
